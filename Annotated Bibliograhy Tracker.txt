@@ -3,4 +3,5 @@
 3.	Michele A. Williams, Caroline Galbraith, Shaun K. Kane, and Amy Hurst. 2014. "just let the cane hit it": how the blind and sighted see navigation differently. In Proceedings of the 16th international ACM SIGACCESS conference on Computers & accessibility (ASSETS '14). Association for Computing Machinery, New York, NY, USA, 217–224. https://doi.org/10.1145/2661334.2661380
 4.	Sozzi S, Decortes F, Schmid M, Crisafulli O, Schieppati M. Balance in Blind Subjects: Cane and Fingertip Touch Induce Similar Extent and Promptness of Stance Stabilization. Front Neurosci. 2018 Sep 11;12:639. doi: 10.3389/fnins.2018.00639. PMID: 30254565; PMCID: PMC6141713.
 5.	Dean, Aaron, "Investigation of Measured Cane Vibrations for Prediction of Blind Pedestrian Performance in Surface Preview Tasks" (2017).Masters Theses. 1132.https://scholarworks.wmich.edu/masters_theses/1132
-
+6. 	Ackerman, E. 2021. Virtual Reality Has an Accessibility Problem. Scientific American Voices (Sep. 2021). https://blogs.scientificamerican.com/voices/virtual-reality-has-an-accessibility-problem/
+7.	M. Mott et al., "Accessible by Design: An Opportunity for Virtual Reality," 2019 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), Beijing, China, 2019, pp. 451-454, doi: 10.1109/ISMAR-Adjunct.2019.00122.
