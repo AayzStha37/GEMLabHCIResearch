@@ -3,6 +3,8 @@
 #include <Adafruit_Sensor.h>
 
 #include <Adafruit_ADXL345_U.h>
+#include <math.h>
+#include <stdlib.h>
 
 //#define USE_SPI       // Uncomment this to use SPI
 
@@ -29,6 +31,7 @@ const int triggerButtonPin = 3; // Pin for the trigger button
 const int ledPin = 9; // Pin for the LED
 int buttonState = 0; // Current state of the button
 int previousButtonState = 0; // Previous state of the button
+int samplecount = 1;
 
 void setup() {
   pinMode(triggerButtonPin, INPUT); // Set the trigger button pin as input
@@ -98,9 +101,15 @@ void loop() {
   // Check if the button is pressed
   if (buttonState == HIGH) {
     if (previousButtonState == LOW) {
-      SERIAL_PORT.print("IMU-X,IMU-Y,IMU-Z");
+      SERIAL_PORT.print("Samples");
       SERIAL_PORT.print(", ");
-      SERIAL_PORT.println("ADXL-X,ADXL-Y,ADXL-Z");
+      SERIAL_PORT.print("IMU-X,IMU-Y,IMU-Z");
+      SERIAL_PORT.print(",");
+      SERIAL_PORT.print("IMU Magnitude");
+      SERIAL_PORT.print(", ");
+      SERIAL_PORT.print("ADXL-X,ADXL-Y,ADXL-Z");
+      SERIAL_PORT.print(",");
+      SERIAL_PORT.println("ADXL Magnitude");
     }
     previousButtonState = 1;
     // Button has just been pressed, turn on the LED
@@ -117,6 +126,7 @@ void loop() {
     // Button has just been released, turn off the LED
     digitalWrite(ledPin, LOW);
     SERIAL_PORT.println("=");
+    samplecount = 1;
   }
 }
 
@@ -149,8 +159,17 @@ void printFormattedFloat(float val, uint8_t leading, uint8_t decimals) {
 }
 
 void printAccelerometersReadings(ICM_20948_I2C * sensor) {
+  sensors_event_t event;
+  adxl_accelerometer.getEvent( & event);
+
+  SERIAL_PORT.print(samplecount++);
+  SERIAL_PORT.print(", ");
   printScaledIMUAxesReading(sensor); // This function takes into account the scale settings from when the measurement was made to calculate the values with units
-  printScaledADXLAxesReading();
+  printMagnitude(sensor -> accY()/100,sensor -> accZ()/100);
+  SERIAL_PORT.print(", ");
+  printScaledADXLAxesReading(event);
+  printMagnitude(event.acceleration.y,event.acceleration.z);
+  SERIAL_PORT.println();
 }
 
 // #ifdef USE_SPI
@@ -162,22 +181,24 @@ void printScaledIMUAxesReading(ICM_20948_I2C * sensor) {
   // SERIAL_PORT.print(", ");
   // printFormattedFloat(sensor -> accZ(), 5, 2);
   // SERIAL_PORT.print(", ");
-
   SERIAL_PORT.print(sensor -> accX()/100);
   SERIAL_PORT.print(", ");
-   SERIAL_PORT.print(sensor -> accY()/100);
+  SERIAL_PORT.print(sensor -> accY()/100);
   SERIAL_PORT.print(", ");
-   SERIAL_PORT.print(sensor -> accZ()/100);
+  SERIAL_PORT.print(sensor -> accZ()/100);
   SERIAL_PORT.print(", ");
 }
 
-void printScaledADXLAxesReading() {
-  sensors_event_t event;
-  adxl_accelerometer.getEvent( & event);
+void printScaledADXLAxesReading(sensors_event_t event) {
   SERIAL_PORT.print(event.acceleration.x);
   SERIAL_PORT.print(", ");
   SERIAL_PORT.print(event.acceleration.y);
   SERIAL_PORT.print(", ");
   SERIAL_PORT.print(event.acceleration.z);
-  SERIAL_PORT.println();
+  SERIAL_PORT.print(", ");
+}
+
+void printMagnitude(float accl_y, float accl_z){
+  float magnitude = sqrt(pow(accl_y,2)+pow(accl_z,2));
+  SERIAL_PORT.print(magnitude);
 }

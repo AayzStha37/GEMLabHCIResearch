@@ -7,7 +7,7 @@ for sheet_name in surface_data.items():
     # Extract the x and y coordinates from the data
     x = data.get('Samples')
     y1 = data.get('ADXL Magnitude')
-    y2 = data.get('IMU Magnitude')
+    y2 = data.get('IMU Magnitude').
 
     # Create a figure and axis object
     fig, ax = plt.subplots()
