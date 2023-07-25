@@ -61,17 +61,21 @@ void setup() {
 
 void loop() {
   // Iterate through the array and play each magnitude value as a sound
-  for (int i = 0; i < numElements; i++) {
-    float normalizedMagnitude = accelerometerData[i] / (maxAcceleration * 2);
-    int frequency = map(normalizedMagnitude * 1000, 10, 3200, minFrequency, maxFrequency);
-    Serial.println(i);
-    Serial.println(frequency);
-    if (frequency > 0)
-      playTone(frequency, 100); // Play for 100 milliseconds
+  if(Serial.available()){
+    String serialData = Serial.readString();
+    if("startHaptics_true".equals(serialData)){
+        for (int i = 0; i < numElements; i++) {
+          float normalizedMagnitude = accelerometerData[i] / (maxAcceleration * 2);
+          int frequency = map(normalizedMagnitude * 1000, 10, 3200, minFrequency, maxFrequency);
+          Serial.println(i);
+          Serial.println(frequency);
+          if (frequency > 0)
+            playTone(frequency, 100); // Play for 100 milliseconds
+        }
+    }
+    while(true){}
   }
-  while (true){
-    
-  }
+  
 }
 
 void playTone(int frequency, int duration) {
