@@ -9,6 +9,8 @@ const int maxFrequency = 500;
 // Define the array to store 200 samples of accelerometer data
 const int numSamples = 200;
 const float maxAcceleration = 16.0;
+String startHapticsFlag = "startHaptics";
+String stopHapticsFlag = "stopHaptics";
 
 float accelerometerData[] = {
   -4.23866572, -1.10848172, -5.97839345, -3.65826733, 0.76842214,
@@ -54,7 +56,7 @@ size_t numElements = sizeof(accelerometerData) / sizeof(float);
 
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
   Wire.begin();
   pinMode(soundPin, OUTPUT);
 }
@@ -62,9 +64,19 @@ void setup() {
 void loop() {
   // Iterate through the array and play each magnitude value as a sound
   if(Serial.available()){
-    String serialData = Serial.readString();
-    if("startHaptics_true".equals(serialData)){
+    //to read input from the serial input via Unity
+    String serialInput = Serial.readString();
+    //Uncomment below 2 LOC to get input from the built-in serial monitor
+    // String serialInput = Serial.readStringUntil('\n');
+    // serialInput.trim();
+    if(serialInput.equalsIgnoreCase(startHapticsFlag)){
         for (int i = 0; i < numElements; i++) {
+          if (Serial.available() > 0) {
+            serialInput = Serial.readStringUntil('\n');
+            serialInput.trim();
+          }
+          if(serialInput.equals(stopHapticsFlag))
+            break;
           float normalizedMagnitude = accelerometerData[i] / (maxAcceleration * 2);
           int frequency = map(normalizedMagnitude * 1000, 10, 3200, minFrequency, maxFrequency);
           Serial.println(i);
@@ -73,7 +85,10 @@ void loop() {
             playTone(frequency, 100); // Play for 100 milliseconds
         }
     }
-    while(true){}
+    else {
+       Serial.println("start haptics error");
+       Serial.println("Flag received - "+serialInput);
+    }
   }
   
 }
