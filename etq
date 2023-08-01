@@ -1,0 +1,149 @@
+[33mcommit a1a1640c4e74ed187c3df0440833b8058072526d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Thu Jul 20 14:22:38 2023 -0300
+
+    KATVR SDK added
+
+[33mcommit 4a747035985c6501ff7fff95559906ea970a748f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Mon Jul 17 15:11:17 2023 -0300
+
+    DFT321 algorithm implementation added
+
+[33mcommit 0cb0ccc3562e799338986f9d96f33cbfed4aede0[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Mon Jun 12 16:33:17 2023 -0300
+
+    updated plotting program to accomodate multiple sheets within an excel file
+
+[33mcommit 1b3449c1a55f110f70bdeb56e6a24891d99b9a9a[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Mon Jun 12 14:56:27 2023 -0300
+
+    clipped audio files from master sample
+
+[33mcommit cf59ba43ebdb58f71f1bb674e18e139b650a6134[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Mon Jun 12 12:25:05 2023 -0300
+
+    matplotlib plotting program | audio recordings of surfaces | folder resturcture
+
+[33mcommit a6b66849e705753ef7e65434f5cc92eb65f6d187[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Wed Jun 7 11:46:28 2023 -0300
+
+    updated arduino cod | IMU and ADXL 8 and 16g data
+
+[33mcommit add6b7bf0768130bf507adc54db39d0d94fd6277[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Thu Jun 1 21:23:16 2023 -0300
+
+    Arduino code added for hardware prototype
+
+[33mcommit afbf46f4f18292e2aed30ab138ee2ff6a271818d[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Thu Jun 1 21:21:27 2023 -0300
+
+    lit review added | research papers folder reorganized
+
+[33mcommit b0c9da568198fd624d374954749222a6304b4ab8[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Mon May 22 10:17:55 2023 -0300
+
+    final poster to print added
+
+[33mcommit bf55436795e28cc2f2bfc789eff52b33ef7c74fe[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Sat May 20 22:43:44 2023 -0300
+
+    Poster materials and final design added
+
+[33mcommit 34c57fac8924116af14e9ad452907cef51d6e7dc[m
+Author: Aayush Shrestha <saayush97@gmail.com>
+Date:   Tue Apr 25 11:11:47 2023 -0300
+
+    Bibliography tracker updated and some papers removed
+
+[33mcommit 318e7bb53be3c1346b9ba88651019f375d5c37fc[m
+Author: Aayush Shrestha <saayush97@gmail.com>
+Date:   Thu Apr 13 15:43:34 2023 -0300
+
+    highlighted annotations added
+
+[33mcommit 82bd3ab9fe9effa7f34f61b8d860b7dda6c35b72[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Tue Apr 11 15:41:02 2023 -0300
+
+    Added new research papers/articles
+
+[33mcommit db81b8246167e35d5566bb5f70c2415add414f80[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Wed Mar 1 23:46:43 2023 -0400
+
+    Abstarct for prospective FVR paper
+
+[33mcommit 14b8007c0ad036eb22e285f9887d44abf741a150[m
+Author: Aayush Shrestha <31032624+AayzStha37@users.noreply.github.com>
+Date:   Tue Dec 6 14:27:11 2022 -0400
+
+    Delete .DS_Store
+
+[33mcommit 459c909e107cfd95e9eaf0c699bfb0ee8f9a5c3c[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Fri Nov 11 19:47:23 2022 -0400
+
+    Indoor VR navigation
+
+[33mcommit a1906eca1df5221b1970be6ab8ff6b2319684614[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Fri Nov 11 19:44:50 2022 -0400
+
+    Weekly progress log updated | Agenda - Gamification of outdoor VR navigation expereince as a training aid for the blind
+
+[33mcommit 671dcdb7c6c77ca44df542c0c2cd83e2f0eb8189[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Tue Nov 8 12:04:56 2022 -0400
+
+    Body/Head Level obstruction detection using augmented white cane research papers
+
+[33mcommit 6acb7f4a755a3790b2e6967e3d28acd4cb985c7f[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Fri Nov 4 14:35:37 2022 -0300
+
+    Added weekly progress log
+
+[33mcommit f542a5df05303acac0d4240fef01c71045a1a420[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Thu Oct 27 12:45:18 2022 -0300
+
+    updated bibliography
+
+[33mcommit 06d8851e0e6c8c67ad2024d5c2b599c9295c342b[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Thu Oct 27 12:43:29 2022 -0300
+
+    added new papers with highlighted noted
+
+[33mcommit 406c5409626e3916ae4729c00b30cd3b19db5d4c[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Tue Oct 25 22:19:33 2022 -0300
+
+    1. Automated steering cane for visually impaired | 2. Virtual reality without vision
+
+[33mcommit 947b2eb1256ab1d3a1c0c58fb635e65dfbbc9840[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Sat Oct 22 20:58:09 2022 -0300
+
+    Added bibliography tracker
+
+[33mcommit da6aed732b575ea9e048fcda0fd4416caf93dfa2[m
+Author: Aayush <saayush97@gmail.com>
+Date:   Sat Oct 22 20:51:30 2022 -0300
+
+    BlindWalkVR paper
+
+[33mcommit 15cbf383ad8375af9e48ab5dca55ec9ea974dc6b[m
+Author: Aayush Shrestha <31032624+AayzStha37@users.noreply.github.com>
+Date:   Fri Oct 21 12:01:02 2022 -0300
+
+    Initial commit

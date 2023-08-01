@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+
+    {
+      "name": "Arduino Debug",
+      "type": "arduino",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "executable": "${workspaceFolder}/.build/your_sketch_name.ino.elf",
+      "serverPort": 5000,
+      "serverArgs": ["--log", "t"]
+    }
+  ]
+}
