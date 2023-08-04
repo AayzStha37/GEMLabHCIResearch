@@ -1,7 +1,7 @@
 #include <Wire.h>
 
-const int soundPin_adxl = 10;
-//const int soundPin_imu = 10;
+const int soundPin_adxl = 8;
+const int soundPin_imu = 9;
 
 // Define the frequency range (in Hz) you want to map the accelerometer data to
 const int minFrequency = 50;
@@ -27,10 +27,10 @@ float gravel_accelerometerData[] = {-4.69967399, -5.6509253, -3.15117066, -3.689
 // float grass_accelerometerData[] = {};
 
 void setup() {
-  Serial.begin(2000000);
+  Serial.begin(115200);
   Wire.begin();
   pinMode(soundPin_adxl, OUTPUT);
-//  pinMode(soundPin_imu, OUTPUT);
+  pinMode(soundPin_imu, OUTPUT);
 }
 
 void loop() {
@@ -75,10 +75,10 @@ void playTone(int frequency, int duration) {
   for (long i = 0; i < duration*1000L; i += period) {
     Serial.println("playing tone");
     digitalWrite(soundPin_adxl, HIGH); // Sound ON
-    //digitalWrite(soundPin_imu, HIGH);
+    digitalWrite(soundPin_imu, HIGH);
     delayMicroseconds(pulseWidth);
     digitalWrite(soundPin_adxl, LOW);  // Sound OFF
-    //digitalWrite(soundPin_imu, LOW);
+    digitalWrite(soundPin_imu, LOW);
     delayMicroseconds(pulseWidth);
   }
 }
