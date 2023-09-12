@@ -1,7 +1,17 @@
-KATVR Walk Mini S
+##KATVR Walk Mini S
 
 License key - 956A6-8443F-75E9C-1BE69
-Software - Business I/O edition
 Account username: GVHCIDal
 Account password: gemlabdal@8848
-Prdocut page: https://www.kat-vr.com/pages/support-detail?id=56adf56ca55f48ac8661bc0d4fca5fdc
+
+=============================================================================================================
+
+Product Page : https://www.kat-vr.com/pages/support-detail?id=56adf56ca55f48ac8661bc0d4fca5fdc
+
+User Manual : https://download.katvr.com/product/literature/b0803930-01f5-11ea-b4a8-658c04a9f44c.pdf
+
+KATVR I/O : https://download.katvr.com/product/software/KATIO_B%20Setup%202.6.8.exe
+
+KATVR Industry : https://rb.gy/r7mlk
+
+KATVR SDK : https://drive.google.com/drive/folders/1K_0q1YWth80dl7g8LF57xoSN1YndUvM-?usp=share_link 
