@@ -5,7 +5,6 @@
 #include <Adafruit_ADXL345_U.h>
 #include <math.h>
 #include <stdlib.h>
-
 //#define USE_SPI       // Uncomment this to use SPI
 
 #define SERIAL_PORT Serial
