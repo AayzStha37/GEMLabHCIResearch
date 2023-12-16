@@ -19,9 +19,11 @@ char DATAZ1 = 0x37;	//Z-Axis Data 1
 
 //This buffer will hold values read from the ADXL345 registers.
 unsigned char values[10];
-//These variables will be used to hold the x,y and z axis accelerometer values.
-int x,y,z;
-double xg,yg,zg;
+
+double v = 0; // Initial velocity
+double v_old = 0; // Previous velocity
+unsigned long time_acceleration_last = 0; // Variable to store the last time acceleration was measured
+
 
 // Configuration for the trigger button and the LED indicator
 const int triggerButtonPin = 6; // Pin for the trigger button
@@ -48,7 +50,7 @@ void loop(){
   // Check if the button is pressed
   if (buttonState == HIGH){
     if(previousButtonState == LOW) {
-      Serial.println("ADXL-X,ADXL-Y,ADXL-Z");
+      Serial.println("ADXL-X,ADXL-Y,ADXL-Z,Velocity-Y");
     }
     previousButtonState = 1;
     // Button has just been pressed, turn on the LED
@@ -82,6 +84,7 @@ void initializeADXL345() {
 void readAndPrintSensorData() {
   int x, y, z;
   float xg, yg, zg;
+  double velocity_y;
 
   readRegister(DATAX0, 6, values);
 
@@ -97,9 +100,26 @@ void readAndPrintSensorData() {
   yg = y * 0.0312 * 9.81;
   zg = z * 0.0312 * 9.81;
 
+  velocity_y = calculateAndPrintVelocity(yg);
+
   Serial.print(xg);Serial.print(", ");
   Serial.print(yg);Serial.print(", ");
-  Serial.println(zg);
+  Serial.print(zg);Serial.println(", ");
+  //Serial.println(velocity_y);
+}
+
+double calculateAndPrintVelocity(float acceleration){
+  unsigned long time_acceleration = millis(); // Current time
+
+  double dv = acceleration * (time_acceleration - time_acceleration_last) / 1000.0; // Calculate change in velocity (dv) in seconds
+  v = v_old + dv; // Calculate new velocity
+
+  //double estimatedValue = filter.updateEstimate(v, 0); // Update the filter with the velocity measurement and control input (0 in this case)
+
+  v_old = v; // Update the previous velocity for the next iteration
+  time_acceleration_last = time_acceleration; // Update the time variable
+
+  return v;
 }
 
 //This function will write a value to a register on the ADXL345.
