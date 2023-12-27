@@ -49,35 +49,34 @@ void setup() {
 
   initializeADXL345();
   
-  Serial.println("ADXL-X,ADXL-Y,ADXL-Z");
+  //Serial.println("ADXL-X,ADXL-Y,ADXL-Z");
 }
 
 
 void loop() {
-  readAndPrintSensorData();
 
-  // buttonState = digitalRead(triggerButtonPin);
-  // // Check if the button is pressed
-  // if (buttonState == HIGH){
-  //   if(previousButtonState == LOW) {
-  //     Serial.println("ADXL-X,ADXL-Y,ADXL-Z");
-  //   }
-  //   previousButtonState = 1;
-  //   // Button has just been pressed, turn on the LED
-  //   digitalWrite(ledPin, HIGH);
-  //   startMillis = millis();
-  //   readAndPrintSensorData();
-  // } 
-  // else if (buttonState == LOW && previousButtonState == HIGH) {
-  //   previousButtonState = 0;
-  //   // Button has just been released, turn off the LED
-  //   digitalWrite(ledPin, LOW);
-  //   Serial.println("=");
-  //   v = 0; // Initial velocity
-  //   v_old = 0; // Previous velocity
-  //   time_acceleration_last = 0;
-  //   time_acceleration = 0;
-  // } 
+  buttonState = digitalRead(triggerButtonPin);
+  // Check if the button is pressed
+  if (buttonState == HIGH){
+    if(previousButtonState == LOW) {
+      //Serial.println("ADXL-X,ADXL-Y,ADXL-Z");
+    }
+    previousButtonState = 1;
+    // Button has just been pressed, turn on the LED
+    digitalWrite(ledPin, HIGH);
+    startMillis = millis();
+    readAndPrintSensorData();
+  } 
+  else if (buttonState == LOW && previousButtonState == HIGH) {
+    previousButtonState = 0;
+    // Button has just been released, turn off the LED
+    digitalWrite(ledPin, LOW);
+    Serial.println("=");
+    v = 0; // Initial velocity
+    v_old = 0; // Previous velocity
+    time_acceleration_last = 0;
+    time_acceleration = 0;
+  } 
 }
 
 void initializeADXL345(){
@@ -118,7 +117,7 @@ void readAndPrintSensorData() {
 
   Serial.print(xg);Serial.print(", ");
   Serial.print(yg);Serial.print(", ");
-  Serial.print(zg);Serial.println(", ");
+  Serial.println(zg);
   //Serial.print(velocity_y_raw);Serial.print(", ");
   //Serial.println(velocity_filter);
 }
