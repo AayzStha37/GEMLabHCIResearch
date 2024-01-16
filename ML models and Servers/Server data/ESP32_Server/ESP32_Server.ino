@@ -2,6 +2,7 @@
 #include <ESPAsyncWebServer.h>
 #include <ArduinoJson.h>
 #include <SPI.h>
+#include "HardwareSerial.h"
 
 //SPI pins
 // MOSI - 35
@@ -11,15 +12,22 @@
 
 #define CS_PIN  14
 
-const char* ssid = "Humans Wifi"; 
+const char* ssid = "APEX"; 
 const char* password = "HBo@2489";
 const char* PARAM_MESSAGE = "message";
 
 AsyncWebServer server(80);
 
+HardwareSerial Serial_1(1);
+
 void setup() {
+    int TX1, RX1;
     Serial.begin(115200);
     pinMode(CS_PIN, OUTPUT);
+
+    RX1   = 49;
+    TX1   = 48;
+    Serial_1.begin(115200, SERIAL_8N1, RX1, TX1);
     // Initialize SPI
     SPI.begin();
 
@@ -30,6 +38,8 @@ void setup() {
         Serial.println("Connecting to WiFi...");
     }
     Serial.println("SUCCESS: Connected to WiFi.");
+    Serial.print("IP Address: ");
+    Serial.println(WiFi.localIP());
     Serial.println("Listening to client requests...");
 
     handleEndPoints();
@@ -67,11 +77,9 @@ void sendDataToDaisy(){
   // for (int i = 0; i < strlen(message); i++) {
   //   SPI.transfer(message[i]);
   // }
-  digitalWrite(CS_PIN, HIGH);
-
-  delay(1000);
-
-  digitalWrite(CS_PIN, LOW);
+ 
+  //Serial.println("sine");
+  Serial_1.write('1');
 }
 
 // void printRequestParameters(AsyncWebServerRequest *request) {

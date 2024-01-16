@@ -1,7 +1,7 @@
 
 #include "DaisyDuino.h"
 #include <SPI.h>
-#include <SPIExtension.h>
+// #include <SPIExtension.h>
 
 DaisyHardware hw;
 
@@ -21,8 +21,12 @@ const String TRI = "tri";
 // CS - 7
 
 const uint8_t PIN_CS = 7;
-const uint8_t NUM_DEVICE = 1;
-SPIExtension<PIN_CS, NUM_DEVICE> spi;
+// const uint8_t NUM_DEVICE = 1;
+// SPIExtension<PIN_CS, NUM_DEVICE> spi;
+
+uint32_t rx3 = 11, tx3 = 12;
+
+HardwareSerial  SerialPot(rx3, tx3); 
 
 void MyCallback(float **in, float **out, size_t size) {
   Oscillator osc = osc_toPlay;
@@ -37,11 +41,12 @@ void MyCallback(float **in, float **out, size_t size) {
 
 void setup() {  
   Serial.begin(115200);
+  SerialPot.begin(115200);
+
   pinMode(LED_BUILTIN, OUTPUT);
   pinMode(PIN_CS, INPUT);
-
-  SPI.begin();
-  spi.attatch(SPI);
+  // SPI.begin();
+  // spi.attatch(SPI);
   float sample_rate;
   // Initialize for Daisy pod at 96kHz
   hw = DAISY.init(DAISY_SEED, AUDIO_SR_96K);
@@ -65,51 +70,67 @@ void initOscillators(float sample_rate){
 }
 
 void loop() {
-  // if (Serial.available()) {
-  //   String serialInput = Serial.readStringUntil('\n');
-  //   serialInput.trim();
+  String recievedMsg;
+  if (SerialPot.available()>0) {
+    char inputChar = SerialPot.read();
+    if (inputChar == '\n') {
+      if (recievedMsg.equalsIgnoreCase(SINE)) {
+        DAISY.end();
+        Serial.println("Received command: Sine Wave");
+        osc_toPlay = osc_sine;
+        DAISY.begin(MyCallback);
+        blinkLED();
+      }else if (recievedMsg.equalsIgnoreCase(TRI)) {
+        DAISY.end();
+        Serial.println("Received command: Triangle Wave");
+        osc_toPlay = osc_tri;      
+        DAISY.begin(MyCallback);
+      }else {
+        Serial.println("Invalid command");
+      }
+      recievedMsg = "";  // Reset the message
+    } else {
+      recievedMsg += inputChar;  // Append characters to the message
+    }
+  }
 
-  //   if (serialInput.equalsIgnoreCase(SINE)) {
-  //     DAISY.end();
-  //     Serial.println("Received command: Sine Wave");
-  //     osc_toPlay = osc_sine;
-  //     DAISY.begin(MyCallback);
-      
-  //   } else if (serialInput.equalsIgnoreCase(TRI)) {
-  //     DAISY.end();
-  //     Serial.println("Received command: Triangle Wave");
-  //     osc_toPlay = osc_tri;      
-  //     DAISY.begin(MyCallback);
+  if(SerialPot.available()){
+    char inputChar = SerialPot.read();
+    if(inputChar == '1'){
+        Serial.println("Received command: 1");
+    }
+  }
 
-  //   } else {
-  //     Serial.println("Invalid command");
-  //   }
-  // }
-
+  if(SerialPot.available()>0){
+    char inputChar = SerialPot.read();
+    if(inputChar == '1'){
+        Serial.println("Received command: 1'");
+    }
+  }
   //read data over SPI connection
   // for (uint8_t i = 0; i < spi.size(); ++i)
   // {
   //   Serial.println(spi.data(i), HEX); 
   // }
 
-  static int previousState = LOW; // Assume the initial state is LOW
-  int currentState = digitalRead(PIN_CS);
+  // static int previousState = LOW; // Assume the initial state is LOW
+  // int currentState = digitalRead(PIN_CS);
 
-  if (currentState != previousState) {
-    // CS pin state has changed
-    if (currentState == HIGH) {
-      osc_toPlay = osc_sine;      
-      DAISY.begin(MyCallback);
-      Serial.println("CS pin is HIGH");
-      blinkLED();
-    } else {
-      DAISY.end();
-      Serial.println("CS pin is LOW");
-    }
+  // if (currentState != previousState) {
+  //   // CS pin state has changed
+  //   if (currentState == HIGH) {
+  //     osc_toPlay = osc_sine;      
+  //     DAISY.begin(MyCallback);
+  //     Serial.println("CS pin is HIGH");
+  //     blinkLED();
+  //   } else {
+  //     DAISY.end();
+  //     Serial.println("CS pin is LOW");
+  //   }
 
-    // Update the previous state
-    previousState = currentState;
-  }
+  //   // Update the previous state
+  //   previousState = currentState;
+  // }
 }
 
 
