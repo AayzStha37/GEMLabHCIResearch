@@ -13,6 +13,7 @@
 #define CS_PIN  14
 #define RX 44
 #define TX 43
+<<<<<<< Updated upstream:ML models and Servers/ESP32 and Daisy code/ESP32_Server/ESP32_Server.ino
 const char* ssid = "GemLab"; 
 const char* password = "gemlabdal";
 const char* PARAM_MESSAGE = "message";
@@ -23,6 +24,26 @@ HardwareSerial CustomSerial(2);
 void setup() {
     Serial.begin(115200);
     CustomSerial.begin(9600, SERIAL_8N1, RX, TX);
+=======
+
+const char* ssid = "Humans Wifi"; 
+const char* password = "HBo@2489";
+
+
+// const char* ssid = "GemLab"; 
+// const char* password = "gemlabdal";
+
+const char* PARAM_MESSAGE = "message";
+
+AsyncWebServer server(80);
+
+HardwareSerial Serial2(2);
+
+void setup() {
+    Serial.begin(115200);
+    pinMode(CS_PIN, OUTPUT);
+    Serial2.begin(9600, SERIAL_8N1, RX, TX);
+>>>>>>> Stashed changes:ML models and Servers/Server data/ESP32_Server/ESP32_Server.ino
 
     WiFi.begin(ssid, password);
     while (WiFi.status() != WL_CONNECTED) {
@@ -66,9 +87,14 @@ void sendDataToDaisy(){
   //   SPI.transfer(message[i]);
   // }
  
+<<<<<<< Updated upstream:ML models and Servers/ESP32 and Daisy code/ESP32_Server/ESP32_Server.ino
   // CustomSerial.println("sine");
   // delay(1000);
   CustomSerial.write('1');
+=======
+  //Serial.println("sine");
+  Serial2.write('1');
+>>>>>>> Stashed changes:ML models and Servers/Server data/ESP32_Server/ESP32_Server.ino
 }
 
 // void printRequestParameters(AsyncWebServerRequest *request) {
@@ -101,5 +127,10 @@ void sendDataToDaisy(){
 
 
 void loop() {
+<<<<<<< Updated upstream:ML models and Servers/ESP32 and Daisy code/ESP32_Server/ESP32_Server.ino
     // ESP32 code here
+=======
+    // Your ESP32 code here
+    Serial2.write('1');
+>>>>>>> Stashed changes:ML models and Servers/Server data/ESP32_Server/ESP32_Server.ino
 }
