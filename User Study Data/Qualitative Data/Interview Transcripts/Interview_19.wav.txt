@@ -1,0 +1,143 @@
+Speaker 1: This is going to be a semi-structured open-ended interview. You can share the answers based upon the experience you had after this experiment. So the first question, what role did various audio experiences play for you to get around in the virtual environment? 
+
+Speaker 2: Are you talking about the cane audio? 
+
+Speaker 1: Everything. All the audio that you experienced, how did it help or what role did it play to get around in the virtual environment? 
+
+Speaker 2: There are two aspects. First, the cane. The cane's audio actually really helped me to understand what are the different textures that have. When I slide the cane to the different surfaces, I could not distinguish between the surfaces because of the voice. Grass and road and I think gravels. 
+
+These are the three things that I could really find out. I could distinguish between the cane and the voice. If I talk about the traffic or chatting or dancing, I think it really helped me to get to the position or destination. It is really beneficial for a blind person. 
+
+Speaker 1: Could you share the different kinds of audio you encountered in the VR space? 
+
+Speaker 2: I have observed student dancing, student playing. I have observed people talking. I have observed a hot dog. Someone is selling a hot dog. I have observed traffic lights. I have observed the car and different vehicles crossing through the road. I have observed females talking about some grounds. I have observed most of the sounds. 
+
+Speaker 1: What characteristics of the audio from the environment can you recall from all the tasks? 
+
+Speaker 2: I have heard a sound of a hot dog. There was a seller who was selling hot dogs. The second would be the children. There was a seller and children. 
+
+Speaker 1: I am talking about the characteristics of the audio. 
+
+Speaker 2: You mean the features or the different? Are you talking about the cane or the hole? If I talk about the sound, we heard a very annoying sound. When I hear the traffic sound, it goes very high. 
+
+If I go away from the traffic or something, the sound is getting lower. This is the two characteristics that I have found. When you slide, you find that there are different sounds. High volume or low volume. This is the major characteristic. 
+
+Speaker 1: How would you compare the spatial audio of the simulation with the real life scenario? 
+
+Speaker 2: How do you compare the simulation with the real life scenario? 
+
+Speaker 2: In real life, I have a place where there is no sound. There is only traffic. It is just quite. In the simulation, I found out a lot of traffic. I heard a lot of traffic at the time. 
+
+That was a bit of an annoying. There was a lot of congestion in the sound. That means that I am in a congested place. 
+
+It is a more crowded or traffic place. Probably because I could not go that far. I did not travel that far. That is why I could not find the difference between the sounds. If I relate it to the real life and the simulation, I could not hear my cane at some point where I have a very loud sound. I do not know if it is related to the real life or the simulation. There is a relation. It is very much related. 
+
+Speaker 1: Can you walk me through your decision making process during the navigational task that you did without visuals? How did you decide which way to go? What was the decision making process for navigation? 
+
+Speaker 2: My main focus was on the surroundings audio rather than the cane. That is what I was finding. The first thing was that someone was giving me a direction. It was on the left and on the right. I took the left or right and then I heard the sound of a bus stop. The clue was given to me as people were chatting and communicating. 
+
+That is what I was trying to find first of all. At the same time, I was sliding my cane to find out if I was walking on the road or the walk-through. Both were helpful in finding the destination or some sort of task that I am going to actually own. The major thing was the surrounding voice and the second part was the cane. 
+
+Speaker 1: How would this particular decision making process change if you had to do the same task but with visuals? 
+
+Speaker 2: With the visuals, I do not need to worry about the first of all cane obviously because it is visual. The second thing is that I can even see that instead of even listening. The listening factor is the main factor in simulations with the blindfold. When you are visual, you can simply see it and you can just go towards it without even listening it. If I do not have my headphones on or if I am not listening anything, I can simply navigate to any of the tasks. 
+
+Speaker 1: Particularly during the first task, did you feel and hear any external natural vibration and sound emitted from the cane when it was interacting with the actual surface? Apart from the rendered vibration and rendered sound, did you feel any external natural vibration or sound from the cane and the surface? 
+
+Speaker 2: Yes. When there was no rendered sound, I felt some sort of sound like a clothes sound or something like vibration. Very little vibration, not actually vibration but some very little friction less sound. Yes, I can hear it. 
+
+Speaker 1: How realistic do you think the haptic profiles or the vibration of the virtual surface? 
+
+Speaker 2: I think haptic vibration is really helpful for a blind person and for like in the simulation when I try to use the cane. At the same time, it is less important as compared to the sound because in haptic, it was very hard to find out the difference between the surfaces. It was really minor difference. Sometimes I could not find the difference but the major part was the sound. That is how I found it. 
+
+Speaker 1: How realistic did you find it? Although you were not able to distinguish between... 
+
+Speaker 2: I would say like 0 to 1, I would give like maybe 2 to 3 with the vibration and 8 to 9 to the visuals or 7 to 8 to the... sorry not visuals but sound. 
+
+Speaker 1: So while doing the same task, task 1, if you had to choose between any particular source, would you choose haptic or audio? Or do you believe both are equally important for maximum effectiveness? 
+
+Speaker 2: I think both are equally important if the sound is being embedded like right way. I know it is very hard to judge in real life between the sidewalk and the road. Sometimes the sidewalk is also with the same material as the road. Sometimes you do not know. But yes, it is really important to have the vibration along with the sound. 
+
+Speaker 1: So if you had to choose audio and haptic, audio only, haptic only, what would you choose? 
+
+Speaker 2: Audio and haptic for sure. 
+
+Speaker 1: So regarding the second and third task, how would you compare your experience between tasks done with and without patients? The road crossing and navigation, challenge and hunt. 
+
+Speaker 2: So with no visuals, I think it was difficult for me because I did not have a prior experience. But the important part was with no visuals was the sound. And obviously finding the surface with different textures. So as I said, I only could find out the textures between road and grass and some sort of gravels. So what was the question? 
+
+Speaker 1: The task that you did with and without patients, how would you compare the experience? 
+
+Speaker 2: So I think with the visuals, definitely it is easy because you see it and that is what I am experiencing. But without visuals, it was a little bit stressful. Like you instantly go in the dark environment and then we have not practiced that much. With the little practice, you have to find the place. So yes, this is the difference. 
+
+Speaker 1: So did you find any problems doing the second and third tasks without patients? 
+
+Speaker 2: I was a bit scared not finding the right position or not finding the right destination. So yes, I was scared, stressful and I thought maybe I am not finding the right position. But I think the sound, the completion sound really helped me to acknowledge myself. I was like, okay, I actually found the place and I think that is a good point in the simulation. 
+
+Speaker 1: So do you think there will be benefits to performing these tasks without visuals? 
+
+Speaker 2: Without visuals. I think yes, there is a benefit. There is a benefit because this benefit, Wait, I think yes there is a benefit. The benefit is like you know when you don't have a visuals then you can understand how these blind people you know understand the whole surroundings and environment. So I think it's important like to understand the surrounding at the same time understand you know the haptics as well you know so I think it's definitely it's really really important. 
+
+Speaker 1: So how would you relate this experiment experience if you had to do the same task without visuals in the real world? 
+
+Speaker 2: Well I have never thought of it but if I had to do it so I think I would rather go for practice first because it's it it will be really hard for me to go without visuals in real surrounding in the in the real world. 
+
+Why do you think that? Because definitely like I'll be scared of you know hitting something I'll be scared of you know walking on the road I could not able to find out the different textures because these other other thing like we have only these structures we have like elevations we have declination you know we have like water we have you know it's it's not only these sections so with with these simulations I cannot be you know train myself to go in the real world but yes if if I could have experience with the multiple like all the available you know textures and surroundings and sounds and you know like everything then I think I would be you know a bit more confident enough to go into a real world but for this I think this is very limited limited but but as a good start 
+
+Speaker 1: so that means you would be more cautious and more careful yes yes so does that mean you were less careful in the simulation? 
+
+Speaker 2: The simulation yes I was a bit less careful as compared to you know the scenario that you have given me going into the real world you know with no visuals because I knew like at prior that it's just a simulation and I'm not going I have been you know attached with you know everything because I'm not I'm not moving anywhere so I'm just you know pretending like I'm moving but actually not moving right so definitely I was less careful and less stressed but definitely definitely stressed a little stress and you know a little careful as compared to the you know real like with visuals so 
+
+Speaker 1: based on your experience what are your views about this system being useful as a training tool for people who have just lost their sight? 
+
+Speaker 2: I think I think it's it's I think the system is good to start with but definitely not good to train people you know for the person who actually lost their eyesight recently eyesight and then you know go on to the real world and you know have a real world experience but yeah I think the system is good to start with obviously like if you if you attach more different features into it so definitely you know you can make changes on it but just to start with it's good yeah 
+
+Speaker 1: so for the second and third task what was the role of the cane for you? 
+
+Speaker 2: so the role of the cane is to distinguish between the textures in the simulation I've I distinguished between the two to three textures but not all of them because it's very hard as I said to understand the textures which I never had experienced before in my life with like any any sort of state to understand what is the difference between those both textures because I was like you know visual like I was visually understanding and distinguishing all the textures throughout my 
+
+Speaker 1: life yeah so did you forget about using the cane because you have so many other auditory engagements what do you think you actually used it? 
+
+Speaker 2: I think I think yes I think my memory as I was like occupied with with the spatial surrounding I was occupied with the spatial you know sound so I was like in between at some point I forgot about the cane but instantly when I was going closer to the target then I then I was thinking okay now I think it's the time then it clicks in my head okay it's the time to find okay which surface am I on am I not on road am I not on you know grass yeah but yeah at some point yes I did 
+
+Speaker 1: so what do you think about using the cane in terms of immersion do you think the use of cane appropriates the task or would you have done like preferred or conventional gear controller? 
+
+Speaker 2: What do you mean by conventional gear controller? That's the controller. Oh okay just the controller it's okay. Well I think I think having a cane is definitely definitely good for running the user study with the controller I don't think it will be good for the people who just you know lost their eyesight and you know having experience with the with the simulation so yes definitely yes why do you think that 
+
+Speaker 1: you can put you beneficial compared to the gear controller? 
+
+Speaker 2: Well obviously because because of the haptics you know because of the haptics because of the you know the movement of the cane because of you know to understand the as I said the movement of the cane in a different direction but with the controllers you have you can you can move your hand in anywhere but actually when you have a cane in your hand you cannot you you will not like do you cannot move like in all the directions right there is some sort of directions you only go down and you only see downs down thing but with the controller like the possibilities are higher to rotate that in a more directions and you know rotations and whatever. 
+
+Speaker 1: So you think the cane is more immersion than the slide mill for navigation in VR? 
+
+Speaker 2: I think slide mill is helping a person just to not you know go in a wrong direction just to like you know stable the person I think it's helpful because because like you know without a slide mill it's very it's very hard to have such kind of environment and such kind of you know experience like the person who just lost his slide like eyesight it's very hard to you know let him you know train without a slide mill because the slide mill you know holds you and give you you know same sort of experience so I think it's it's beneficial you know to start whenever you start such training so definitely it's good you know to make you stable and experience the real you know this scenario. 
+
+Speaker 1: So do you think it positively or negatively affects the level of immersion? 
+
+Speaker 2: In terms of immersion yes it negatively affects the immersion. 
+
+Speaker 1: Negatively? Negatively immersion but because because see immersive it's it's well you are immersive because you have a headset right but in real world when you're walking then you are not actually attached to any of the cane because you are freely walking right so it's negatively affects immersion. 
+
+Speaker 1: So how do you find it different from natural walking? 
+
+Speaker 2: So in natural walking I'll be taking my step more cautiously as compared to the one I'm attached with you know like a treadmill treadmill and there while walking I was not you know worrying too much because I sometimes I walk sometimes I jump sometimes I'm I was just running you know so that is affecting you know the performance that is definitely it's it's kind of a bias you know because you are attached to something and you are just walking running you do because you know that you won't be you know you won't be hit by someone or you you know you you are stable at one position so I think the treadmill definitely negatively affects and yeah answer to this like other question. 
+
+Speaker 1: So I'll talk you about realism what do you think about the wooden platform that is around the treadmill? 
+
+Speaker 2: Not sure if wooden platform really helped me to find the surface if it would be non wooden platform then I think it also do the same task. Yes so I don't think it really helps me you know in the simulation. 
+
+Speaker 1: So how immersive do you think the system be for someone with actual visual impairment? Someone who has been blind for a while. 
+
+Speaker 2: As I said like it's it's good for him to start experience to start you know training but not not like too much beneficials to you know to go ahead trained when it trained with the system right now and then go for an actual real-life practice. 
+
+Speaker 1: Okay that's there but like how immersive like in terms of immersion what do you think how immersive the system would be? 
+
+Speaker 2: If I scale 0 to 10 so immersivity with the system with the treadmill I think it's in terms of well if I if I if I if I leave the treadmill so I think it's really really immersive right but if we attach the like a treadmill which is stable I don't feel it's that immersive so that thing degrades the quality and the overall setup of the environment that's my own perception that degrades I think that's probably three to four immersivity but without this thing I think it could have increased to six seven immersivity. 
+
+Speaker 1: So did this experiment change your empathy or awareness towards people with visual impairment? 
+
+Speaker 2: Yes yes it it it changed it it it let me understand what if you know a blind fold and you know when you try to understand the real world scenario it's really hard to get trained fast or in a short time you know to go in real life and experience and you know that scenario. 
+
+Speaker 1: Final question what is your overall feedback on the system and what improvements to this thing could be made? 
+
+Speaker 2: Right so I think the system is very amazing very nice I think it will definitely help people to understand understand the people who actually who are like this visual impairment like how they survive how they how they feel when they you know really get on to the real world so I think it will increase some sort of awareness and some sort of you know understand really well okay how this feel how the person feels when he when someone is you know have no no eyesight and what so for the for the sympathy for the respect for the mankind I think it's good for a person to actually train it and you know show some respect towards them the other other aspect is for the training purposes I think it's good to start for the person you know to have experience this thing you know so that he can go further and you know experience in the real world in terms of improvement I think if you have if you have other textures like water you know rain spray surroundings then I think it will increase the immersivity or you know it will make like a like a good environment virtually immersive at the moment if I if we are if you also get rid of you know the treadmill and instead of and if you start with the small blocks if you keep the different blocks and let him you know travel and understand maybe a single room okay this is a room this is this is you know the surface and this is you know like the blocks if you if you put like a real world block and surface you know in the immersive then I think it will increase the overall quality of this environment. 

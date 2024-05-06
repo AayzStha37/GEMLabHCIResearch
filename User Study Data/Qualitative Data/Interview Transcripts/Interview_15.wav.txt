@@ -1,0 +1,121 @@
+Okay. 
+
+Speaker 1: It will be question participant number 15. So this is going to be a semi-structured open-ended interview based on what you experienced in this experiment you need to answer me. So let's start with the first question. What role did various audio experiences play for you to get around in the virtual environment? 
+
+Speaker 2: So I would say the audio was the most effective part for me. Without that I wasn't able to complete the task because of the sounds I could find the directions. And for the last task I was able to find people based on their talking and I could find based on the sounds. 
+
+Speaker 1: So that was really helpful. Okay, so it helped you to find out the direction. Yes. Okay. So could you share the different kinds of audio you encountered in the VR space? Different kinds of audio. 
+
+Speaker 2: So the ones that I mainly noticed was the different sound of different surfaces. I could distinguish them based on the sound. 
+
+Speaker 1: Like from using the cane or the footsteps or what do you mean by that? 
+
+Speaker 2: So different, so when I was walking on the sidewalk I could hear the sound differently while I was walking on the grass. Okay. So that was really helpful. I also, the sounds was also, so the construction sound for example, people talking or children playing sounds, they would all instruct me to complete the task. 
+
+Speaker 1: Okay. So those are the audio you encountered in the VR space? Okay. So what are the characteristics of the audio that you can remember from all the tasks that you did? 
+
+Speaker 2: Characteristics, I mean. Like what were the features? Yeah, what were the features of the audio according to your experience in the game? 
+
+Speaker 2: So the fact that different surfaces have different sounds, that was really helpful to guide and find the direction. The sound of the traffic lights and whether it's safe to cross or not. Okay. And, yeah. Okay. 
+
+Speaker 1: So how would you compare this audio of the simulation with that of a real life scenario? 
+
+Speaker 2: So I guess that was quite similar. That's pretty much similar. The car sounds, the traffic light and the people sounds, even the construction sound, I found them really similar to the real world. 
+
+Speaker 1: Okay. So the audio of the simulation was pretty similar to the real life? Yes. Okay. So can you walk me through like how you decided, how you made critical decisions while navigating for the road crossing and safety of hand? 
+
+Speaker 2: So I was trying, at first I was trying to understand where am I, what surface I'm standing on based on the voice and also the cane. So I tried to understand where am I and then I tried to listen whether should I go to the left or right or straight, again based on the sound. And then while I was walking, I was trying to walk in the environment, I was also listening to the environment sounds. 
+
+Speaker 1: So how differently do you think if you had to make the same decisions when it came to navigation, how would you have done it if you were able to see? If I was able to see. Yeah. How differently would the decision process change? 
+
+Speaker 2: So if I was able to see the environment, I wouldn't really rely on the sounds. Okay. I just try to see and walk towards, I was trying to see all around and try to decide which way should I go. 
+
+Speaker 1: Okay. So it would be kind of completely dependent on the visuals. On the visuals, yeah. Okay. So during task one, when you had to differentiate between the surfaces, did you feel and hear any external natural vibration and sound when the real cane was touching the real surface? Did you feel that anything? 
+
+Speaker 2: Yeah. You mean the vibrations? 
+
+Speaker 1: Not the vibration through the game and the sound from the game, any external natural vibration. Oh, no, I didn't notice any. No sound, no vibration, you didn't notice. No, I didn't notice. So how realistic do you think the haptics, the vibration of the virtual surfaces were? Hmm. 
+
+Speaker 2: That's interesting. So I've never actually tried to see what the different surfaces sounds like, but for me the grass was the most similar to the real world because it was soft, softer sound. And I guess the metal was also, the sound was really close to real life. But I'm not sure because I've never paid real attention to the road sidewalk sound. 
+
+Speaker 1: But all in all, what do you think in general? In general, I guess they were close to the real sounds. So for the same task, task one, do you prefer the feedback from any particular source like the audio or haptic or do you believe both are equally important for maximum effectiveness? 
+
+Speaker 2: So I would say both were really effective, but for me personally, sounds were more useful. 
+
+Speaker 1: Okay, so if you had to choose like audio and haptic, audio only and haptic only for task one, what would you choose? 
+
+Speaker 2: I would choose audio only. Okay. 
+
+Speaker 1: So for task two and three, the road crossing and scavenger hunt, how do you compare your experience between tasks that you did with and without visuals? 
+
+Speaker 2: With and without visuals. So with visuals, they were much simpler to accomplish. But without visuals, especially for the last task, I was really dependent on the navigation structures from you and the tasks that you had. So that was more complicated, but with visuals, they were really easy to accomplish. 
+
+Speaker 1: So did you find any problems when you were doing the second and third tasks? 
+
+Speaker 2: So at some point, I felt I was lost in the environment, which I don't know which direction should I go. But the more I was in the environment, I get used to it. But at first it was a bit scary to cannot see anything and you have to accomplish a task. But as time goes on, I get used to it and that was easier. 
+
+Speaker 1: So do you think there were any benefits to forming tasks two and three without visuals? Any benefits? 
+
+Speaker 2: Can you rephrase the question? 
+
+Speaker 1: Like after you did the tasks without visuals, the road crossing and scavenger hunt, do you think there were any benefits to performing these tasks without seeing anything? Without seeing anything? Benefits for me or? Benefits in general. What you experienced from your experience. 
+
+Speaker 2: So I guess they are beneficial for sure. For people who are visually impaired and they need to do these tasks in their real life. But even for me, as someone who can see, it's good to pay more attention to the sounds of the environment and realize where you are, not just relying on the visuals. And also the surfaces. How different surfaces, how different sounds. and even you feel differently when you are walking on them, that part was really interesting for me personally. Okay. 
+
+Speaker 1: So how would you relate this experience if you had to do the same thing in the real world with the blindfold on and the cane, and you had to cross the road and find something? 
+
+Speaker 2: I would say I would be horrified if I have to do this in real life and hit by cars or anything. 
+
+Speaker 1: So do you think you would be more cautious, more careful, more aware? Yeah, for sure. 
+
+Speaker 2: And even try to use my hands to touch any object that is near me. 
+
+Speaker 1: So does that mean you were less careful in the simulation? 
+
+Speaker 2: So I guess I was careful. I was trying to pay attention to the sounds of cars especially because I didn't want to hit by a car even if it's in the... and when the car was... I hear them getting really close, I was more cautious to which way should I go. But for sure in the real life I would be more careful. Okay. 
+
+Speaker 1: So based on your experience, what do you think about the system being useful as a training aid for people who have just lost their sight? 
+
+Speaker 2: I guess that's really nice design and can really help people who are trying to navigate and find and understand the environment easier. Even if you are not completely lost your sight, even you are in the first stage or even when you want to experience. I guess it's also really helpful to people experience how people with visual impairment can experience the world surrounding them. And you know you can have sentiments more... you can understand other people's situation and I guess that's really helpful in the accessibility aspect as well. So everyone should try this to see how other people's life can be different. Okay. 
+
+Speaker 1: So for the second and third task, what was the role of the game for you? For second and third task. The road crossing and the galvanier. 
+
+Speaker 2: So I was able to find the crosswalk based on the haptic mainly and also where you asked me to find the grass or I can't remember the other... Gravel. I was trying to use haptics to find the surface, not just sound, not only the sound. Okay. 
+
+Speaker 1: So do you think due to various audios, audio in the game, do you think you kind of forgot about it or do you think you actually used it? The sounds? Because of the different sounds that were in the audio, sorry, in the game. Do you think you forgot about the game at times or do you think you actually used it? 
+
+Speaker 2: Maybe at times I was only relying on the audio of the environment, especially for the last one when I have to find the gate of the park or the construction spot. On that part I was relying mainly on the audio. But other than that when I was trying to cross the road or yeah, or I was getting around the area, I also used the haptics. 
+
+Speaker 1: Okay. So what do you think about the use of cane in terms for an immersive experience? Do you think the use of the cane appropriates the task or do you think you could have done the same thing with a conventional VR controller? 
+
+Speaker 2: I guess cane was useful. Even when I could see, I'm not sure if you noticed, but for the task that I could see I was also using the cane the same way. What did you say? Because I feel like I was really into the experience. I was trying to completely understand the experience. Okay. 
+
+Speaker 1: So what are your thoughts on using the slide mill for navigation in VR? 
+
+Speaker 2: So I guess it has benefits and also some challenges. So you feel you're tight, you're tight in one space, you can't move. But for sure it's safer, especially for the task that you cannot see. But if I was going to play a game that I was able to see completely, I would choose the free area to use only the VR headset. Okay. But for tasks like this, I guess this device is really useful. 
+
+Speaker 1: So do you think it positively or negatively affects the level of immersion in the game? What do you think? 
+
+Speaker 2: I would say it's negatively affected because I was able to rotate. I was also able to walk. So it was different walking from the real world walking. So at first that was a bit weird. But after a couple of times I tried, I wasn't even aware that I'm not really walking. I felt like I was completely into the game. Okay. 
+
+Speaker 1: So how did you find it different from normal walking? 
+
+Speaker 2: So in normal walking, I guess we move more muscles. We have, yeah, it felt differently. But at first I need to lean a bit and try to walk, which is not how I normally walk. So that part was a bit different. 
+
+Speaker 1: Okay. So I'm talking about realism. What do you think about the platform, the wooden platform that is around the slide mills? How did you think about that? How did it help you? 
+
+Speaker 2: That's the area that we have the cane on? Yeah. So I had some challenges that the cane was stuck at the bottom because I couldn't see. But other than that it was really, so it could simulate the surfaces I guess. Because I was really touching something. Okay. Yeah. Okay. 
+
+Speaker 1: So how immersive would the system be for someone who is actually blind? What do you think? 
+
+Speaker 2: So I guess they might experience this a bit different from us because of the people who are visually impaired are more relied on the sound and are more familiar from the surfaces than us. So I guess they, it's just my opinion. They might complete the tasks easier and faster than someone who just tried to use a blind fold. 
+
+Speaker 1: So do you think it would be immersive enough for them? For sure, yeah. Okay. So did this experiment change your level of empathy or awareness towards people with visual impairment? 
+
+Speaker 2: Yes, of course, yeah. I've never, actually I've never thought about it. How can be different that you cannot see? And you just have to rely on the sounds and on the surfaces. And that's something that will be with me for a long time for sure. 
+
+Speaker 1: Okay. So what is your overall feedback on the system and what improvements do you think would be made? 
+
+Speaker 2: So in general I guess that was really interesting game and that was really helpful for me. Again, at first it can be a bit scary, I've seen. But after a couple of times trying and you feel that you are safe, you don't, it's not, it's not like that you might fall down or something. So in general I really enjoyed it, especially at the end. As times goes on, it was more interesting for me. 
+
+I can't come up with any suggestions right now. I guess in general that was a really interesting experience. Okay. So that's the end of the interview. 

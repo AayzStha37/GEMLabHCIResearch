@@ -1,0 +1,79 @@
+Speaker 1: So this is going to be an open-ended semi-structured interview. So I am going to ask you a bunch of questions and depending upon your experience with the system you can answer. So the first question that you have is what role did various audio experiences play for you to get around in the virtual environment? Can I repeat the question? So like what role did the various audio experiences that played in the virtual environment and what kind of role did they play? 
+
+Speaker 1: So it is more of supportive navigation. So whenever you feel the audio is very close, you know that the object is very close. If the audio coming from very far, it let you know that the object is very far. So it plays more on like navigation support in the system. 
+
+Speaker 2: So could you share the different kinds of audio you encountered in the virtual space? The different kinds of as in what kind of different audio do you think you encountered? 
+
+Speaker 1: Yeah for a couple of audio, one main audio that I encountered is the bus stand, the traffic light. So where I know that the traffic light is there and then couple of children playing the sound and then the disco the people are dancing and also from the the the hot dog stand. Well it's calling customer for the hot dog and also the construction sound. So almost like the environmental sound was there. So even and also I can feel the sound of walking as well and all the sound of different texture on the road while you move your cane around. 
+
+Speaker 2: So the second question for you is how realistic did you think the haptic profiles of the virtual surfaces were? 
+
+Speaker 1: So when it combines with the sound it feels like more natural. But if you separate from the sound it would be very difficult to know the the whether it's more natural or not but but while it's when it's combined with the sound it feels more natural to me. 
+
+Speaker 2: So you think like on its own it's not that impactful but combined with the sound it feels realistic. 
+
+Speaker 1: Yeah it feels more realistic. On its own it might be impactful but we might I might not have that much experience with haptic that might be good. That might be a perceptional. 
+
+Speaker 2: Okay good. So the third question I have for you is what are your thoughts on using the slide mail for navigation in the virtual world in VR? 
+
+Speaker 1: So the slide mail is good but it doesn't give you the more natural way of walking as if in real there are a bit constant on the walking standpoint of view you don't feel like a natural walking as if you're walking on the in the real. 
+
+Speaker 2: So what do you think like does it affect the level of immersion and that you have when you're experiencing a virtual world using the slide mail? 
+
+Speaker 1: I would say some it won't vary you you can at least like move around but at least it vary the way that you are walking and then you want to be more immersive. It affect I would say more or less 25 percent if you want to be more immersive. 
+
+Speaker 2: Okay so what do you think like would it be any different if you had if you were stationary and used a joystick to navigate as compared to a slide mail? 
+
+Speaker 1: No no slide mail is more natural but I'm still like I was just comparing with the real world scenario it's not that much natural as real world scenario but it is more natural than just using a joystick. 
+
+Speaker 2: Okay so then the next question is so regarding the first task in which you had to find the different textures do you think you have a preference for feedback from any particular sensory modality such as all your haptic? 
+
+Speaker 1: I would say a combination of both is very good. 
+
+Speaker 2: Okay so you do not have a preference so do you think to believe that both are equally important for maximum effectiveness? 
+
+Speaker 1: Yeah both are equally important. 
+
+Speaker 2: So okay so just to be clear yes you can't choose between audio and haptic you feel that both of them. 
+
+Speaker 1: Yeah both of them are equally important because when you feel you just see the sound you just heard the sound you don't feel that much immersive and only haptic it feels something is missing so if you combine both it would be like more much more natural. 
+
+Speaker 2: Okay so my question is from the standpoint of a person who can see how immersive do you think the system would be for someone with visual impairment? 
+
+Speaker 1: With visual impairment I say combining both hapting and sound would be more immersive than just having one feedback just either haptic or either sound would make them more immersive so if we combine the both then it would be more immersive. 
+
+Speaker 2: Just to paraphrase my question so I'm talking about the whole system so like for like during the task two or three where there were different type of sounds the whole body immersion was there you use the cane to get feedback it would put steps and things like that. So the system as a whole how what do you think the whole system would be for someone how immersive would that be for someone with visual impairment? 
+
+Speaker 1: Yeah it is more immersive because it's combined with like the sound from the sounding sound from the the element that you encounter with the cane so it is more immersive. 
+
+Speaker 2: Okay so did this experiment change your level of empathy or awareness towards people with visual impairment? 
+
+Speaker 1: Yeah yeah I say like I think whatever they do they do a great job. Yeah, it's very difficult task to navigate without the vision. I would say I feel more awareness. 
+
+Speaker 2: You feel more aware towards people who are visually impaired. So the final question is, what is your overall feedback on the system and what improvements do you think could be made? 
+
+Speaker 1: The overall feedback is, the system overall is very great. It has more immersive, it has more natural sound. It's combined with both haptic feedback and the sound. It's very good in terms of that. Only less immersion, maybe that might be a future research, is the slide wheel, if you had more omnidirectional side wheel, that would be more good in terms of immersion. So besides that, I think overall system is good. 
+
+Speaker 2: So the only thing you think can be improved upon is the slide wheel. Alright, thank you. Thank you for the interview. Thank you. So how will you explain your experience when you have to compare doing the same tasks that you did, like the second and third tasks, and without visuals? 
+
+Speaker 1: So with visual you have a very easy option that you can see, and then the main guidance is your eyes, your visuals. So it would be very easy to navigate the task and then call for the task completion. But without visual, so it's very difficult because you had to relay on other than the visual feedback. It's the sound, more like sound and some of the haptics. So I would say it is very difficult to navigate things around if you don't have a visual. 
+
+Speaker 2: So for task 2 and 3 that you performed without any visuals, what were the problems that you found? What were the primary problems that you found? 
+
+Speaker 1: So relating experience about task 2, so the problem I found in, I didn't found much problem in task 2 because you just have one direction and then you have audio feedback, but related to the visual, you don't have that visual feedback. So it will be a bit difficult with visual, but I think it's easy than the task 3 because in task 3 you have to have like multi-directional, it's very difficult, you have to hear the sound from the different direction as well and then from the different angle as well. So it's very difficult to navigate where the sound comes from, whether like from left side or right side or back or front. That is the problem in task 3. 
+
+Speaker 2: So what would you say were the benefits of doing those tasks? 
+
+Speaker 1: I would say benefit is knowing that how the audio and haptic feedback works without the visual and then how you can navigate through only the audio and the haptic feedbacks. And another thing is to know that how different it would be navigating with or without visual. 
+
+Speaker 2: So how would you relate it to a scenario if you had to do it in a real world, let's say like crossing the road or finding things, like the same set of tasks without visual in a real world? 
+
+Speaker 1: In the real world if we want to do these tasks without visual, then we need to be more careful on the audio feedback. So I would say like, yeah and also like I think you found like a bit more noisy. So there might be a lot of different noises you can hear on the real world scenario which in case we don't have this in VR. So I would say like more careful and then focus on and how to put it. But it would be very difficult with a lot of different noises in real world scenario. More difficult than this. 
+
+Speaker 2: So since you mentioned about being careful, were you less careful in like in doing the tasks in the VR world? 
+
+Speaker 1: A bit lesser, less careful than the real world scenario because you already know that you are in a simulated world, then you will be like a bit less careful than the real world scenario. 
+
+Speaker 2: So do you think for someone, let's say who is visually impaired and wants to train on navigation in a real world and doesn't know how to do it and if they train on the system, do you think that will be helpful given that it is more safe and you kind of think that it feels the same as navigating in a real world? 
+
+Speaker 1: Yeah, I think it makes more sense giving the training in the VR rather than giving the training in the real world scenario. So it would be more safe because you know that it's a simulated world and you can practice a lot than the real world scenario which might have a bit danger to navigate around the real scenario. 

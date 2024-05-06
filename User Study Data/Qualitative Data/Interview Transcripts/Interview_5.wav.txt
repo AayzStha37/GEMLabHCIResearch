@@ -1,0 +1,175 @@
+Speaker 1: Interview question part seven number five. So this is going to be open-ended semi-structured interview. So yeah, you need to tell me according to the experiences you got from this experiment, right? So, okay, let's start. So what role did various audio experiences play for you to get around in the virtual environment? 
+
+Speaker 2: It played, so this is without visuals mostly. 
+
+Speaker 1: So yeah, without visuals. 
+
+Speaker 2: Without visuals. Okay. So I think yeah, the sound played a really important role while navigating through the tasks because there were audio cues that had to be kept in mind to achieve the checkpoints. 
+
+Speaker 1: Okay. So could you share the different kinds of audio you encountered in the VR space like the categories of audio, not the specific ones but the categories of different audio stuff? Human voice. Okay. Cars. 
+
+Speaker 2: Emergency vehicle sirens. And my own footsteps. 
+
+Speaker 1: So what characteristics of the spatial audio, the surrounding audio from the environment, can you recall from all the tasks performed, the characteristics? Like what was the nature of the sound, the audio? Basically car audio. No, I'm talking about the characteristics like the attributes of the audio that you experienced while navigating. 
+
+Speaker 2: A low, you mean low, high? 
+
+Speaker 1: Something like according to your interpretation. 
+
+Speaker 2: Okay. So characteristics. Yeah, some were very hyped like the siren and. 
+
+Speaker 1: Did you feel anything when you were nearer or farther away, something like that? 
+
+Speaker 2: Yes. Yes. When I was near the signal, I could listen the sound, the volume of the sound being increased so that I knew that I am near the signal or let's say the hot dog cart or the bus stop. Okay. 
+
+Speaker 1: So what about like the cars and everything? What about your characteristics of the sound? 
+
+Speaker 2: I think, I think the cars, the voice of the cars were mostly, mostly similar. But yeah, definitely they would increase and decrease like as the cars were passing by. Okay. 
+
+Speaker 1: So how do you compare the spatial audio of the VR experience of the city simulation with that of a real life scenario? 
+
+Speaker 2: They were very near to the real voices for sure. 
+
+Speaker 1: So can you walk me through your decision making process during the navigational task, that is the second and third task? Can you walk me through your decision making process during that time when you were not seeing anything without visual? Yes. 
+
+Speaker 2: So during the tasks like instructions were given based on the like in which direction I had to go but the major decision that had to be made was whether I was near the checkpoint or not and based on the voice like the volume of the voice being increased I was able to judge that hey I think that I am near the checkpoint. Okay. 
+
+Speaker 1: So the volume of the audio and everything tells you to make decision that if you were near or if you at the target. 
+
+Speaker 2: Yes. And also like I think the cane also helped because I think that I was meant to walk on the sidewalk but then sometimes I felt that I am going off track with the cane with from this like the feedback from the cane and that I guess helped me to get on track. Okay. 
+
+Speaker 1: So how differently do you think you were thinking while making these critical navigational decisions like without visuals when you compare it to with visuals? Yes. 
+
+Speaker 2: So without visuals the feedback from the cane as well as the voices so they were the major factors based on which I took decisions. So for example the dance thing the dance and the children playing so I could hear the voices from like a bit far but like I wasn't sure that I was near but as the voice or the sound increased I was able to know that I am near the checkpoint. 
+
+Speaker 1: So your navigational decisions were mostly according to the volume of the sound? Yes. Okay. So how do you think you would have differently done the same task if you were able to see although you were evicted few of the task how would you compare it experience like in terms of taking decisions while you were able to see and while you were not able to see? 
+
+Speaker 2: I think the decisions that I was making while I was able to see were very quick as compared to when I wasn't able to see because I had to be I had to depend on various factors like sound and the cane feedback cane so I making sure that I am on the right path whether I am going left whether I am going right whether I am on the foot path or not. So those decisions took time when I was blindfolded as compared to when I could see. 
+
+Speaker 1: So particularly during task one did you feel and hear any external natural vibrations and the sound emitted from the real cane interacting with the actual surface? Did you hear or feel? 
+
+Yes. Apart from the things that were rendered the rendered haptics and the rendered sound did you feel any natural vibrations between the cane and the surface? Between that surface and the. So in that case how realistic did you think the haptic profiles of the virtual surfaces were? 
+
+Speaker 2: Haptic profiles they were they were as natural as possible but I think that I was getting confused between like I wasn't able to so accurately distinguish between the different surfaces using the haptic signals. Okay. 
+
+Speaker 1: But in terms of realism what do you think about that? 
+
+Speaker 2: Yeah realism they were they were real. 
+
+Speaker 1: So you thought you think they were realistic but the distinction was a little bit difficult to make. 
+
+Speaker 2: Yes when when I wasn't able to see. 
+
+Speaker 1: So regarding task one again do you prefer feedback from any particular sensory modalities such as audio or haptic or do you believe both are equally important for maximum effectiveness? 
+
+Speaker 2: Both are equally important for maximum effectiveness because you need to know that whether I mean whether did you go on the road before the signal turned green so for that you need the haptic signals as well. 
+
+Speaker 1: Okay so if you had to choose audio haptic audio only haptic only and audio and haptic what would you choose then? Audio and haptic. Okay. So regarding task two and three the road crossing and scavenger gun how would you compare your experiences between tasks done with and without visuals? 
+
+Speaker 2: Experiences in like all the decisions that had. 
+
+Speaker 1: Your experience not the navigational decision but overall experience. 
+
+Speaker 2: I think that with visuals the task was really easy as compared to when I wasn't able to see because there were some decisions that were confusing when I had when I had when I was when I wasn't able to see as I had to use the audio and haptic thing but with visuals it was pretty easy. 
+
+Speaker 1: Okay so what problems if any did you encounter doing tasks two and three without visuals? What particular problems from your experience did you encounter doing tasks two and three? 
+
+Speaker 2: The confusion was around the audio signals like I wasn't that better able to judge like the intensity of the sound like whether I was near or not but I think that I tried to approximate it the best I can. 
+
+Speaker 1: Okay so do you think there were any benefits to performing these tasks two and three without visuals? Any benefits any possible benefits you saw? 
+
+Speaker 2: I think the visual one was much better. 
+
+Speaker 1: So you didn't find any particular benefit in performing these tasks without visuals? No. So how would you relate this experience of performing tasks 2 and 3 without visuals if you had to do it in the real world? Would you have been able to do it? Like the same thing blind folded with a cane and like no problem? 
+
+Speaker 2: No. Why do you think so? Why do you think you could not have done it in the real world? Because there might be other variabilities in the surface, in the surrounding environment. You might be bumping into people. 
+
+Speaker 1: So what is the overall thing that deters you from not doing this in the real world? 
+
+Speaker 2: The uncertainty of the surface or your environment like whether you might get hurt from your actions or others might get hurt. 
+
+Speaker 1: You would be more cautious or more aware. Yes. So if that's the case, does that mean that you were less careful while doing the task in the real world? 
+
+Speaker 2: Yes, I think so. 
+
+Speaker 1: What do you think? What would have been the reason for you being less careful in the virtual reality world? 
+
+Speaker 2: Not able to better judge the signals from the cane and the decisions based on the audio. 
+
+Speaker 1: So those were the attributes that made you feel less careful in the real world? So my question is, did you feel less careful in the real world? Let's start with that. Did you feel less careful? Were you less careful? 
+
+Speaker 2: As compared to the visuals? 
+
+Speaker 1: No, as compared to if you had done it in the real life. Were you less careful in the real world? 
+
+Speaker 2: Then the uncertainty was more careful. 
+
+Speaker 1: You were more careful in the real world? Yes. Why was that? 
+
+Speaker 2: The fear of bumping into a car while crossing for example? Even in the real world. Yes. 
+
+Speaker 1: So based on your experience, what are your views about the system overall being useful as a training aid for novice visual impaired users? So for visual impaired people who are not by birth visual impaired, due to some particular disease or let's say some medical condition, they are visually impaired and now they want to train on how to navigate in the real world. How effective do you think this system can be for them to be trained often? 
+
+Speaker 2: This system can be effective with continuous use. Yes, I think. 
+
+Speaker 1: So once you think once people get used to it, it can be effective. So for task 2 and 3, what was the role of the cane for you? 
+
+Speaker 2: The role of the cane was to identify the surface that I was walking on. Okay. Mostly that one. Yes. 
+
+Speaker 1: So did you forget about it during task 2 and 3 due to other auditory engagements or did you think you used it? 
+
+Speaker 2: I think I used it but like mostly my focus was continuously shifting to the auditory signals but yeah, I was trying to maintain. Okay. 
+
+Speaker 1: So what do you think about using the cane in terms of immersion? Do you think the use of cane appropriates the task or would you have preferred a conventional VR controller? What is the role of the cane in terms of immersion like? 
+
+Speaker 2: To know the surface that you are walking on. 
+
+Speaker 1: Yeah but don't you think the same could have been achieved with a conventional VR controller? 
+
+Speaker 2: Yes but... How did the cane appropriate the use in this scenario? What do you think? 
+
+Speaker 2: I think the cane was better able to like help visualize the surfaces as compared to the controller. 
+
+Speaker 1: If it was with only with the controller. Okay. So what are your thoughts on using the slide mill for navigation in VR? Do you think it affects the level of immersion in VR? No. It doesn't affect the level of immersion? 
+
+Speaker 2: No, I think it enhances. 
+
+Speaker 1: I mean like it does enhance. It positively affects. Yes positively affects. The level of immersion. Yes. Okay. So how did you find it different from walking in the VR slide mill? Like was it like from real like real walking like how you would walk in real life did you find it to be different in the VR slide mill? Yes. Okay. In what terms did you find it different from walking in the real life? 
+
+Speaker 2: I think it was more strain-full because of the action that needed to be performed. Okay. So I think that if we could I mean walking continuously walking on the toes and then the foot being near that was. 
+
+Speaker 1: Okay. So it was not natural walking? Yes not natural walking. If that's the case if it's not it was not natural but did it affect your sense of immersion in the VR game? That new type of walking that you were introduced to? Did it affect the level of immersion? 
+
+Speaker 2: It affected a bit in the starting but then I got used to it. 
+
+Speaker 1: So while talking about realism what do you think about the the skirt that the platform that is around the VR slide mill? What do you think about that? 
+
+Speaker 2: I think it's a good visualization of the real world. 
+
+Speaker 1: In what terms do you think it helped you in visualizing without actually being able to visualize the platform that is around the VR slide mill? 
+
+Speaker 2: It gave I think it gave a sense of direction that I was taking during the tasks. Like the different I think the turning so I knew that I was like turning with the scale. Okay. 
+
+Speaker 1: So it helped you to judge the scale and the height of where to register can you mean? Yes. So overall how immersive would the system be for someone with actual visual impairment? What do you think about that? 
+
+Speaker 2: The system would be would be a good like would be a good experience for someone to learn. It's it's it's near to the real scenarios that a person might encounter. 
+
+Speaker 1: So for people with visual impairment you think it would be immersive? Yes. So did this experiment change your empathy or awareness towards people with visual impairment? Yes. If if yes how like 
+
+Speaker 2: I mean I think that I I became more sympathetic to I mean more empathetic to the people and I think this this gives me like an opportunity that if I see some visually impaired person I would jump in to help them. 
+
+Speaker 1: So before like before the start of this experiment and after you've done this experiment your level of empathy has changed. So final question what is your overall feedback on the system and what improvements do you think you could could be made? 
+
+Speaker 2: So about the system the improvement that I think like from my experience I think I wasn't able to distinguish the surface that easily based on the cane signals and I think only the haptics. 
+
+Speaker 1: Only the haptics yes only the haptics and yeah I think the audio audio really helped in that case. 
+
+Speaker 1: So so if you think the one the improvement can be 
+
+Speaker 2: in the haptic signals to better distinguish the surface. 
+
+Speaker 1: So you mean haptic signal as in the magnitude of the haptic signals or distinguishable characteristics? Distinguishable characteristics. So what's your overall feedback of the system in one line? 
+
+Speaker 2: It's a good visualization of the world that people with impairments cannot see. 
+
+Speaker 1: Okay thank you so that's for the end of the interview. 

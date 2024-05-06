@@ -1,0 +1,119 @@
+Speaker 1: Interview question participant Ken. Okay, let's start again. So what, you can make it quick. What role did various audio experiences play for you to get around in the virtual environment? 
+
+Speaker 2: They helped me navigate. For instance, if I was in the middle of traffic, I could hear that. And when we were doing the ones with Cross the Road or Go to These People, they were my main source of navigation. 
+
+Speaker 1: Could you share the different kind of audio you encountered in the VR space, the categories of audio? 
+
+Speaker 2: Talking, road sounds, the goals at the end, like the hot dog guy, like the construction site, the hip hop people. Yeah, road sounds, voices and traffic sounds. 
+
+Speaker 1: So what characteristics of spatial audio can you recall from the tasks performed? The characteristics of spatial audio. 
+
+Speaker 2: The volume was the big one for me. Like how loud or quiet something was was a big indicator of how close or far away I was. And like if I knew I was going in the right direction or if I knew that I was stuck in traffic. Okay. 
+
+Speaker 1: So how do you compare the spatial audio of the city simulation with that of the real life scenario? 
+
+Speaker 2: Similar, but this one was more overwhelming just because it was more of the focus. So it was like to me it felt extra loud and extra kind of turned up a level. But I, yeah, because there was less to pay tend to less sensory things going on. So it felt like everything was exaggerated. But I'm sure it's similar if I close my eyes. Okay. 
+
+Speaker 1: So can you walk me through your decision making process during navigation tasks? Without visuals. 
+
+Speaker 2: Yeah, without visuals, it was mostly just going where the sound were or weren't. So for the traffic one, I would try to hear where the sound was and then go and then it would kind of be based on how far away something sounds or doesn't sound. And then because I'm not good at walking in this when I was like I knew when I was stuck in traffic. So then I would try to get out of the traffic, which I think swayed my patterns and my decision making because I didn't want to be stuck in traffic. Okay. 
+
+Speaker 1: So how differently do you think you were thinking while making critical navigational decisions while you were not able to see and comparing it to making same critical navigational decisions when you were able to see? 
+
+Speaker 2: Yeah, it was definitely different. Like the cognitive load was like way different because when I could see, I feel like I didn't have to think as much and it was more intuitive just because that's what I'm used to. Whereas for the ones with the blindfold, there was I guess more decision making, whether it was good decision making or not, I don't know. 
+
+But yeah, there was like I guess more decisions to be made and it was I guess more mental power to be like where are you? Are you going in the right direction? Are you getting hit by a car? Are you in a trash can? Whereas I could see if I was doing those things. 
+
+Speaker 1: So the four question three you've already said you didn't feel any external sound other than the rolling of the cane at times. How realistic were the haptic profiles of the virtual surfaces for you? 
+
+Speaker 2: Yeah, I get like medium. I think that like I really don't acknowledge what things feel like when I'm walking. But I think the gravel one was pretty realistic, I would say, especially with like the noise at the beginning. And maybe the sidewalk one too, I would assume. 
+
+Speaker 1: So for the first task, you said you would prefer if you had to choose between audio and haptic, audio only and haptic, only you would choose audio because you would get the same sound, right? I mean like you would get the same result. 
+
+I feel like I might. So you would choose audio. Yeah. 
+
+Okay, so for tasks two and three, how would you compare your experiences between tasks done with and without visuals? That was crossing the road. Crossing the road and scams your hand. 
+
+Speaker 2: Oh, yeah, like very different. The ones where I could see were like immensely easier, but I also was like aware of my lack of training on VR. And it just it kind of felt like not second nature, but it was like definitely easier to navigate and it felt faster to me. Whereas the ones where I couldn't see, it was definitely more difficult. Not to say that it was hard, but it was just it was more difficult. 
+
+Speaker 1: Okay. So what problems, if any, did you encounter doing the second and third task? With and without. Only without the visuals. 
+
+Speaker 2: Like I said, the trouble always is like, am I going in the right direction? Am I walking into something? Am I going the right way? Because I felt like for some of them, when there was like an audio kind of cue that I was searching for, if I if I heard it in a certain direction, I would turn that direction. And then I felt like I was going way off the beam path. Okay. But then I just kept going. 
+
+But then it confused me because I was like here one direction, but I know that I was supposed to go left, but now I'm going right in a circle or whatever. Yeah. 
+
+Speaker 1: Okay. So do you think there were any benefits to performing these tasks without visuals? 
+
+Speaker 2: Probably. Yeah, like I guess it shows, I don't say realistic because I hope that's not realistic. But I think, I think that there's like uses for that. And I think that people with visual impairments would maybe have, well, they have a more similar experience from when you didn't have the blindfold on. Okay. So you could probably say, this is the worst of the worst. So what can we do for probably a more realistic setting and experience? Okay. 
+
+Speaker 1: So how would you relate this experience of performing the task without visuals? If you had to do it in the real world? If you had to do the same road crossing and scavenger hunt with the blindfolds on and with the cane? 
+
+Speaker 2: Yeah. 
+
+Speaker 1: How do you think you would do or what your experience would be? 
+
+Speaker 2: Dangerous. Interesting. I think that like one thing for me that I, I think like the actual VR and like the walking thing, because I'm not, I wasn't like awesome at walking. I think that kind of hindered my performance maybe a little bit. So I do think if I, if we like went down to Barrington and did this, I would probably be a little more successful. Okay. With the blindfold one. Okay. 
+
+Speaker 1: So you say you would be more aware or cautious because of the actual dangers, right? Yeah. 
+
+Speaker 2: Like I'm not even sure if it's like caution. I mean, I would be careful, but it was just like, I feel like I would have more control because I felt like, because I wasn't going to walking in this that it, that it kind of hindered my, what I was trying to execute. No. Okay. 
+
+Speaker 1: So does that mean you were less careful when you had to do it in the VR simulation? 
+
+Speaker 2: I don't know. I mean, like maybe a little bit subconsciously, but I don't know if you noticed, but there were times where I felt like I was in traffic and I just would stop walking, which is, I know I'm not the right move if you're in traffic. You should go one way or the other, but I was very aware of like the big sound of like the trucks or like being feeling like I'm getting squished by one and I would like stop. In an effort to exude safety precautions. So yeah. Okay. But I guess there would be like a real life stakes if I was walking into real traffic blindfolded. 
+
+Speaker 1: Okay. So based on your experience, what are your views about the system being useful as a training aid for novice visually impaired users? 
+
+Speaker 2: Yeah, I mean, I think it probably would be good. I think that maybe they would probably want to take some more, a lot. Are people generally good at the walking part? Sorry. Are people generally good at the walking part? With the slide man? Kind of. So like it's just a me thing clearly, but like I do think that it would, I do think it would be beneficial. And I do see like the purpose and the intent behind it. And I do think it would be good. 
+
+Speaker 1: Okay. So for the second and third task, what was the role of the king for you? 
+
+Speaker 2: I think like a little bit, well, I mean, I don't know my path because I don't, you know, could see what I was doing, but it felt like it was, I could notice that there was like a big change in like the feel. So I think that maybe I was aware if I was in traffic or on gravel. Okay. But it was mostly audio for me is the way that I would like navigate. 
+
+Speaker 1: So did you forget about the king altogether due to other auditory engagements or do you think you used it? 
+
+Speaker 2: I think I used it like a little, but not as much as like I probably did at first. And I was really aware of that during the ones where I could see, cause I was like, I can see, but I felt like I still maybe wiggled it a little bit, but not as much as probably someone who actually uses one would use it. Okay. 
+
+Speaker 1: So what do you think the use of the cane in terms of immersion? Do you think the use of the cane appropriates the task or would you have preferred a conventional VR controller? 
+
+Speaker 2: Probably not. I think it's more realistic, especially for like the audience that you're looking to kind of work with. 
+
+Speaker 1: Okay. So you think it increased the immersion? 
+
+Speaker 2: Yeah, absolutely. I think if we used a controller, I would have, well, first been extra confused. Okay. Why do you think so? I could barely walk. Like one thing at a time. And I do think like for, like if you were to do similar tests with people who were, like for the actual demographic, you're looking to help with this, it just would make more sense for like the pilot studies and like the everything to use a cane. 
+
+Speaker 1: Okay. So what are your thoughts on using the slide meal for navigation in VR? 
+
+Speaker 2: Oh, for me, no. I think it was so interesting and I wish that I could walk better, but I don't, me and the machine just are walking vibes, we're in it. But I do think it's really cool. And I think that I wish that I could have walked better, but I did it's really cool. 
+
+Speaker 1: You did good, but it takes time a bit. Yeah. So do you think it positively or negatively affects the level of immersion, the use of the slide meal? Okay. 
+
+Speaker 2: So again, for me personally, I think it probably didn't enhance it just cause I was like, am I walking? Am I in a garbage can? Why is it moving like this? But I think that like with practice or someone who's had experience with it, I think it would be really beneficial. And like very like more immersive and the most realistic you can get without sending someone into traffic. Okay. 
+
+Speaker 1: So how do you find it different from walking? 
+
+Speaker 2: Well, I mean, I felt like I was drunk. Like I was like, I think like, I mean, I guess the way that you take steps was different. I don't really normally have to think about walking a lot, but I had to really be like, do you hear your steps? Are you moving? So it was definitely one of the most, the highest cognitive load I think I had was, am I walking? Okay. Okay. 
+
+Speaker 1: So while talking about realism, what do you think about the platform that is around this slide, Mil? How do you think that helped you? 
+
+Speaker 2: Oh yeah, I think it was probably good. How do you think it helped you? How do you think it helped me? I mean, I'm not sure. I guess it was like, helped me kind of remember that I had to keep going forward especially with the cane and the walking. It was like, you need to kind of feel both in order to keep going forward in this simulation thing. Okay. 
+
+Speaker 1: Okay. So how immersive would the system be for someone with actual visual experience? What do you think? Probably pretty, how visually impaired? 
+
+Speaker 2: Like certified. 
+
+Speaker 2: I think it would be like equally immersive. I mean, obviously depending on the site stuff that could be more or less, but I mean, they would still feel the same. The haptics would be the same, maybe even higher depending on their level of like visual impairment. Like maybe the audio and maybe the other senses would be elevated a little for them. Like even more than when I was blindfolded, just because maybe that's what they're used to. So it's, they're more aware of different cues that I didn't notice. But I feel like if you're putting headphones and blindfolds and sticking someone in there, it's gonna be immersive. Okay. 
+
+Speaker 1: So did this experiment change your level of empathy or overness towards people with visual impairments? 
+
+Speaker 2: I think I've always had lots of empathy for people with visual impairments. I've never, I guess we could say, yeah, like it, I'm always really impressed by the way that people can navigate around the world with less sight. And it was, I guess interesting to experience that same capacity. I don't wanna say like I maybe have more because I do think that like they have successfully navigated and learned and are capable just as I am with the way I navigate. But it was an interesting experience to kind of try to navigate without complete sight. 
+
+Speaker 1: Okay. So this particular experiment did or did not change your level of empathy? 
+
+Speaker 2: We can say, we can say dead. Yeah. In a practical way. Okay. 
+
+Speaker 1: So what is your overall feedback on the system and what improvements do you think can be implemented? 
+
+Speaker 2: I think it was good. I think that the use of the machine for someone like me could have used like either a little more practice or, like I don't even know how you could have helped me better than that. Like I just think that I'm inherently better walking down the ground. But I guess that would be my only thing because other than that, like the headset and like the audio stuff was really, like really clear. Maybe more time with like the texture of the haptic thing at first or like a way to kind of get that ingrained into people's minds a little if that is important. But that's all. 
+
+Speaker 1: All right, so that's the end of the. 
